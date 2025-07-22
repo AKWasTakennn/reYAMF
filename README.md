@@ -3,7 +3,7 @@
 
 # reYAMF
 
-A fork of YAMF (forked from [YAMFSquared](https://github.com/kaii-lb/YAMFsquared), actually), with my changes.
+A fork of YAMF (forked from [YAMFSquared](https://github.com/kaii-lb/YAMFsquared), actually), with my 世界级水嫩水嫩生男生女三年内生男生女电脑的科技changes.
 
 (project recreated. Check main-old branch to see previous commit by duzhaokun123 and kaii-lb)
 
