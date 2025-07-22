@@ -19,7 +19,7 @@ A fork of YAMF (forked from [YAMFSquared](https://github.com/kaii-lb/YAMFsquared
 - Multiple window support
 - Minimize window to take up less space
 - Resize window
-- FLAG_SECURE support
+- FLAG_SECURE support lmao
 - Quick Settings tiles 
 - App Rotation detection
 - Custom default window size
